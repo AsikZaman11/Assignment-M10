@@ -1,27 +1,4 @@
-// import 'package:device_preview/device_preview.dart';
-// import 'package:flutter/material.dart';
-// import 'package:untitled1/screens/home_screens.dart';
-//
-// void main(){
-//   runApp(DevicePreview(builder: (contex)=>MyApp()));
-// }
-// class MyApp extends StatefulWidget {
-//   const MyApp({Key? key}) : super(key: key);
-//
-//   @override
-//   State<MyApp> createState() => _MyAppState();
-// }
-//
-// class _MyAppState extends State<MyApp> {
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//       home: HomeScreen(),
-//     );
-//   }
-// }
 
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main(List<String> args) {
